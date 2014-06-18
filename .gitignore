@@ -32,4 +32,11 @@ Rolls.mk
 src/numpy/numpy-1.8.0.tar.gz
 src/python-2/Python-2.7.6.tgz
 src/python-3/Python-3.3.4.tgz
+src/docutils/docutils-0.11.tar.gz
+src/html2rest/html2rest-0.2.2.tar.gz
+src/jinja/Jinja2-2.7.3.tar.gz
+src/markupsafe/MarkupSafe-0.23.tar.gz
+src/pygments/Pygments-1.6.tar.gz
+src/setuptools/setuptools-1.1.6.tar.gz
+src/sphinx/Sphinx-1.2.2.tar.gz
 # --- END ---

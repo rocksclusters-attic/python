@@ -34,4 +34,13 @@
 
 	<package>opt-numpy-27</package>
 	<package>opt-python-modules</package>
+
+	<package>opt-setuptools-27</package>
+ 	<package>opt-docutils-27</package>
+ 	<package>opt-html2rest-27</package>
+ 	<package>opt-jinja-27</package>
+ 	<package>opt-markupsafe-27</package>
+ 	<package>opt-pygments-27</package>
+ 	<package>opt-sphinx-27</package>
+
 </kickstart>

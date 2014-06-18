@@ -1,3 +1,10 @@
 a2c02c5fb2ab8cf630982cddc6821e74f5769974  src/numpy/numpy-1.8.0.tar.gz
 8328d9f1d55574a287df384f4931a3942f03da64  src/python-2/Python-2.7.6.tgz
 0561d2a24067c03ed2b29c58a12e126e86ccdc58  src/python-3/Python-3.3.4.tgz
+3894ebcbcbf8aa54ce7c3d2c8f05460544912d67  src/docutils/docutils-0.11.tar.gz
+129351d8a9b43bc4a1d9dcffe376aa881b881d3d  src/html2rest/html2rest-0.2.2.tar.gz
+25ab3881f0c1adfcf79053b58de829c5ae65d3ac  src/jinja/Jinja2-2.7.3.tar.gz
+cd5c22acf6dd69046d6cb6a3920d84ea66bdf62a  src/markupsafe/MarkupSafe-0.23.tar.gz
+53d831b83b1e4d4f16fec604057e70519f9f02fb  src/pygments/Pygments-1.6.tar.gz
+4a8863e8196704759a5800afbcf33a94b802ac88  src/setuptools/setuptools-1.1.6.tar.gz
+9e424b03fe1f68e0326f3905738adcf27782f677  src/sphinx/Sphinx-1.2.2.tar.gz
